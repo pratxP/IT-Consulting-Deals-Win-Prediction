@@ -135,6 +135,10 @@ For interactive data visualization and analysis, this model integrates with Powe
 
 ## Vizualization
 
+![Screenshot 2025-01-11 181311](https://github.com/user-attachments/assets/1a36e152-41f7-4119-8661-331be61ce49a)
+![Screenshot 2025-01-11 181320](https://github.com/user-attachments/assets/21a678eb-c890-40e0-ace9-32d13540fd04)
+![Screenshot 2025-01-11 181247](https://github.com/user-attachments/assets/14cfb9e1-1656-4ef2-bfee-6dff3908d66e)
+![Screenshot 2025-01-11 181301](https://github.com/user-attachments/assets/40301d9f-fd53-4ef6-9088-ff3f05d53990)
 
 
 ## Project Installation
