@@ -133,6 +133,28 @@ For interactive data visualization and analysis, this model integrates with Powe
 
 ---
 
+## Measures
+
+1. **Success Rate**: 
+   ```DAX
+   SuccessRate = DIVIDE(CALCULATE(COUNT(IT_Consulting_Deals_Data_Global[Deal_ID]), IT_Consulting_Deals_Data_Global[Deal_Won_Lost] = "Won"), COUNT(IT_Consulting_Deals_Data_Global[Deal_ID]))
+
+   ```
+2. **Total deal profit**: 
+   ```DAX
+   Total deal profit = [total deal cost]-[total solution price]
+   ```
+3. **Total deal cost**: 
+   ```DAX
+   total deal cost = sum(IT_Consulting_Deals_Data_Global[Deal_Cost])
+   ```
+4. **Total solution price**: 
+   ```DAX
+   total solution price = sum(IT_Consulting_Deals_Data_Global[Solution_Price])
+
+---
+
+
 ## Vizualization
 
 
